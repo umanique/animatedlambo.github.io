@@ -2,5 +2,5 @@ var audio = document.createElement('audio');
 audio.setAttribute('src', 'Lamborghini_Sound.mp3');
 audio.loop=true;
 
-// audio.play();
+audio.play();
 
